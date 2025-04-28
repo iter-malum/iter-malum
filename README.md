@@ -25,7 +25,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=iter-malum&theme=dark&date_format=j%20M%5B%20Y%5D)  
 
 ### **📜 Certifications**  
-- **CASP** (Offensive Security)  
+- **CASP** (Certified API Security Professional)  
 
 ### **📫 How to Reach Me**  
 ```bash
