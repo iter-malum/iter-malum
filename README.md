@@ -10,7 +10,7 @@
 | Project | Description | Tools |  
 |---------|-------------|-------|  
 | [**Itero**](https://github.com/iter-malum/Itero) | Itero is a multi-agent LLM system designed to automate the creation and updating of static code analysis rules for Semgrep | AutoGen, Ollama, Group Chat |  
-| [**Semgrep_rules**](https://github.com/iter-malum/semgrep_rules) | Collection of rules for semgrep (SAST). |
+| [**Semgrep_rules**](https://github.com/iter-malum/semgrep_rules) | Collection of rules for semgrep (SAST). | Semgrep |
 
 ### **🔬 Open-Source Contributions**  
 - Found & reported 
